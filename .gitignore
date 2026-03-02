@@ -1,0 +1,23 @@
+# Dependencies 
+node_modules/
+venv/
+__pycache__/
+
+# Environment variables
+.env
+*.env
+
+# Database
+*.db
+*.sql.backupp
+
+# IDE 
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
