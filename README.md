@@ -18,7 +18,7 @@ Many people struggle to maintain consistency with daily habits due to lack of mo
 This repository documents my DevOps learning journey.
 The goal is to learn DevOps tools by building, deploying and managing a real application.
 
-##Techonologies that will be learned and applied during this project:
+## Techonologies that will be learned and applied during this project:
 - Linux Fundamemtals
 - Git & GitHub
 - Bash Scripting
